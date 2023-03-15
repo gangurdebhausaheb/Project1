@@ -1,2 +1,5 @@
- hi good evening
- my name is mangesh.
+ a=2
+ b=3
+ c=b-a
+ print(c)
+
